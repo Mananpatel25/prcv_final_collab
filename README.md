@@ -1,6 +1,6 @@
-# Title
+> **Team project** — PRCV final project, Northeastern University, 2025 (3 people). Each member owned one dataset end-to-end; my contribution: the **AnimalCLEF** track — data pipeline, the DenseNet-121 / Inception v3 / custom-CNN training and test scripts (`*_AnimalCLEF.py`), and the cross-architecture comparison that reached 99.1% accuracy.
 
-Comparative Analysis of CNN Architectures for Fine-Grained Species Classification Across FungiCLEF, AnimalCLEF, and PlantCLEF Datasets
+# Comparative Analysis of CNN Architectures for Fine-Grained Species Classification Across FungiCLEF, AnimalCLEF, and PlantCLEF Datasets
 
 # Author
 - Jae Hun Cho
